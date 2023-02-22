@@ -9,6 +9,6 @@
 
 
 ### Stats
-[![Niels's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-claes&show_icons=true&include_all_commits=true&custom_title=Niels'%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Niels's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-claes&show_icons=true&include_all_commits=true&custom_title=Niels'%20GitHub%20Stats)](https://github.com/n-claes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-claes&hide=html,jupyter%20notebook,tex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-claes&hide=html,jupyter%20notebook,tex)](https://github.com/n-claes)
